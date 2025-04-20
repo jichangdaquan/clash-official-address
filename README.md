@@ -40,14 +40,3 @@ Clash for Windows是针对 Windows 平台的Clash版本，它在 Windows 操作�
 
 > Windows 直接双击打开 exe 文件进行安装，如果提示 阻止了无法识别的应用启动。 请点击更多信息，然后再点击仍要运行进行安装。
 
-## 推荐阅读
-
-* [2023最新机场推荐](https://clever99.com/latest-agent-recommendation)
-* [免费机场推荐](https://clever99.com/free-agent-subscription-recommendation)
-
-* [clash for windows使用教程](https://github.com/winston779/clash/blob/main/clash_for_windows%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md)
-* [clashx for mac使用教程](https://github.com/winston779/clash/blob/main/clashx_for_mac%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md)
-* [clash for android使用教程](https://github.com/winston779/clash/blob/main/%E5%AE%89%E5%8D%93clash_for_android%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md)
-* [Shadowrocket苹果ios使用教程](https://github.com/winston779/clash/blob/main/Shadowrocket%E8%8B%B9%E6%9E%9Cios%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B.md)
-
-
